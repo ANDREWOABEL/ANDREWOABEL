@@ -1,4 +1,6 @@
-# Martin Saveski's Website
+# Andrew Oabel's Website
+
+## Thank you Martin Saveski for the template
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
