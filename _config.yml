@@ -1,7 +1,7 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /~andrewoabel
+# baseurl: /~andrewoabel
 
 collections:
   projects:
